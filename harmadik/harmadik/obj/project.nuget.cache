@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pKWWN2jPu4hHZQMagGvy0Wiuda1bgWwGS5r73xnYtJgQjFWVL26CMQtovyAY55bAOEiApkdKV3DjzanewrkoiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Langel\\source\\repos\\harmadik\\harmadik\\harmadik\\harmadik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Langel\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
